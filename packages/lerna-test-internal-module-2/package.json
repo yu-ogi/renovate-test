@@ -13,6 +13,7 @@
   "author": "",
   "license": "",
   "dependencies": {
+    "empty": "^0.1.0",
     "lerna-test-internal-module-1": "0.0.1"
   }
 }
