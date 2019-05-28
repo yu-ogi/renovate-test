@@ -1,3 +1,3 @@
-var a = require("@local/lerna-test-internal-module-1");
+var a = require("@local/lerna-test-internal-module");
 
 console.log(a);
