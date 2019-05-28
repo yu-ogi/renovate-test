@@ -11,5 +11,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": ""
+  "license": "",
+  "devDependencies": {
+    "@akashic/akashic-engine": "^1.12.16",
+    "lerna-test-internal-module": "0.0.1"
+  }
 }
