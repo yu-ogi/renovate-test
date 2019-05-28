@@ -11,5 +11,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": ""
+  "license": "",
+  "dependencies": {
+    "empty": "^0.1.0"
+  }
 }
