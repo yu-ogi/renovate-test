@@ -13,7 +13,7 @@
   "author": "",
   "license": "",
   "devDependencies": {
-    "@akashic/akashic-engine": "^1.12.16",
+    "@akashic/akashic-engine": "2.4.14",
     "lerna-test-internal-module": "0.0.1"
   }
 }
