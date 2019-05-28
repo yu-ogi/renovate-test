@@ -1,0 +1,9 @@
+.DS_Store*
+*.log
+*.iml
+*.tgz
+
+node_modules/
+lib/
+doc/
+sample-ts/script/
