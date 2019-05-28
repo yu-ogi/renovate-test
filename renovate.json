@@ -4,5 +4,7 @@
   ],
   "separateMinorPatch": true,
   "labels": ["dependencies"],
-  "assignees": ["@yu-ogi"]
+  "assignees": ["@yu-ogi"],
+  "prConcurrentLimit": 0,
+  "prHourlyLimit": 0
 }
