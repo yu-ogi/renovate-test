@@ -2,12 +2,12 @@
   "extends": [
     "config:base"
   ],
-  "separateMinorPatch": true,
   "labels": ["dependencies"],
   "assignees": ["@yu-ogi"],
   "reviewers": ["@yu-ogi"],
   "prConcurrentLimit": 0,
   "prHourlyLimit": 0,
+  "schedule": "before 2am",
   "packageRules": [
     {
       "packagePatterns": ["^@akashic/"],
