@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/yu-ogi/renovate-test#readme",
   "dependencies": {
-    "@akashic/akashic-engine": "1.12.17"
+    "@akashic/akashic-engine": "1.12.17",
+    "lodash.clone": "^4.4.0",
+    "lodash.uniq": "^4.4.0"
   },
   "devDependencies": {
     "@akashic/akashic-sandbox": "0.13.61",
