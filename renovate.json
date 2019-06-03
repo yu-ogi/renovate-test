@@ -8,6 +8,7 @@
   "reviewers": ["@yu-ogi"],
   "prConcurrentLimit": 0,
   "prHourlyLimit": 0,
+  "separateMinorPatch": true,
   "packageRules": [
     {
       "packagePatterns": ["^@akashic/"],
