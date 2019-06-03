@@ -12,9 +12,14 @@
     {
       "packagePatterns": ["^@akashic/"],
       "enabled": false
+    },
+    {
+      "updateTypes": ["minor"],
+      "groupName": "minor dependencies"
+    },
+    {
+      "updateTypes": ["patch"],
+      "groupName": "patch dependencies"
     }
-  ],
-  "patch": {
-    "groupName": "patch dependencies"
-  }
+  ]
 }
