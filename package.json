@@ -26,8 +26,8 @@
   "devDependencies": {
     "@akashic/akashic-sandbox": "0.13.61",
     "@akashic/game-driver": "0.11.20",
-    "lerna": "3.15.0",
+    "lerna": "3.18.0",
     "webpack": "4.34.0",
-    "webpack-cli": "3.3.4"
+    "webpack-cli": "3.3.5"
   }
 }
