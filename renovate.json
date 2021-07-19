@@ -15,11 +15,11 @@
       "enabled": false
     },
     {
-      "updateTypes": ["minor"],
+      "matchUpdateTypes": ["minor"],
       "groupName": "minor dependencies"
     },
     {
-      "updateTypes": ["patch"],
+      "matchUpdateTypes": ["patch"],
       "groupName": "patch dependencies"
     }
   ]
