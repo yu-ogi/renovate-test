@@ -5,7 +5,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "postinstall": "lerna bootstrap",
     "test": "exit 0"
   },
   "repository": {
