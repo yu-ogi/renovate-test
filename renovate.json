@@ -7,7 +7,10 @@
   "packageRules": [
     {
       "matchPackageNames": ["aev1"],
-      "allowedVersions": "<2.0"
+      "groupName": "engine-files v1",
+      "groupSlug": "engine-files@v1",
+      "allowedVersions": "<2.0",
+      "schedule": "at any time"
     },
     {
       "matchPackageNames": ["aev1"],
@@ -21,7 +24,10 @@
     },
     {
       "matchPackageNames": ["aev2"],
-      "allowedVersions": "<3.0"
+      "groupName": "engine-files v2",
+      "groupSlug": "engine-files@v2",
+      "allowedVersions": "<3.0",
+      "schedule": "at any time"
     },
     {
       "matchPackageNames": ["aev2"],
@@ -35,7 +41,10 @@
     },
     {
       "matchPackageNames": ["aev3"],
-      "allowedVersions": "<4.0"
+      "groupName": "engine-files v3",
+      "groupSlug": "engine-files@v3",
+      "allowedVersions": "<4.0",
+      "schedule": "at any time"
     },
     {
       "matchPackageNames": ["aev3"],
