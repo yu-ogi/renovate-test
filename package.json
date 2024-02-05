@@ -1,7 +1,7 @@
 {
   "name": "renovate-test",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "@akashic/amflow": "3.1.0",
     "@akashic/playlog": "3.1.0",
     "@akashic/trigger": "1.0.0",
-    "aev1": "npm:@akashic/engine-files@1.1.5",
+    "aev1": "npm:@akashic/engine-files@1.4.0",
     "aev2": "npm:@akashic/engine-files@2.1.10",
     "aev3": "npm:@akashic/engine-files@3.0.0"
   }
